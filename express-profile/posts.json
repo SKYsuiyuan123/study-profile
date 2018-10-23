@@ -1,0 +1,20 @@
+{
+    "_id": "5b02xxxxxx886",
+    "text": "this is a text",
+    "user": "5b52545522xxxx2255455x",
+    "links": [{
+        "_id": "5b2255445cfdsa55a5",
+        "user": "54441dsafdcdsa"
+    }],
+    "comments": [{
+        "date": "2018-05-21T02:47:48.385Z",
+        "_id": "5cfdsafeadadasfdasfdsafd551",
+        "text": "this is a text comment test",
+        "user": "552dsaereeawafd5f4dsfd",
+        "name": "xxxddexx",
+        "avatar": "www://aa.com"
+    }],
+    "date": "2018-05-21T02:05:15.385Z",
+    "avatar": "www://aa.com",
+    "__v": 2
+}

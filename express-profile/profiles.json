@@ -1,0 +1,45 @@
+{
+    "_id": "5aff34uirehjk3serws",
+    "user": "155455wesfds25f555dsf",
+    "handle": "test",
+    "company": "米修在线",
+    "website": "www.xxx.com",
+    "location": "上海",
+    "status": "前端开发",
+    "skills": [
+        "HTML",
+        "CSS",
+        "JS",
+        "NODE"
+    ],
+    "bio": "从事在线教育",
+    "githubusername": "www.github.com",
+    "experience": [{
+        "current": true,
+        "_id": "5545e543454dfs45",
+        "title": "3年前端开发",
+        "company": "成长乐",
+        "location": "北京",
+        "from": "2009-12-31T18:14:00.00Z",
+        "to": "2014-12-31T18:14:00.00Z",
+        "description": "编写代码"
+    }],
+    "education": [{
+        "current": false,
+        "_id": "65fdserw12554fdsafd2ds",
+        "school": "某某学校毕业",
+        "degree": "专科",
+        "fieldofstudy": "计算机软件技术",
+        "from": "2007-12-31T18:14:00.00Z",
+        "to": "2009-12-31T18:14:00.00Z",
+        "description": "学习"
+    }],
+    "social": {
+        "wechat": "13011316073",
+        "QQ": "1144034421",
+        "tengxunkt": "https://xxxx.com",
+        "wangyikt": "https:/xooo.com/"
+    },
+    "date": "2017-06-26T02:53:06.029Z",
+    "_v": 2
+}
