@@ -8,15 +8,15 @@ export default new Router({
 
   routes: [{
     path: '/',
-    name: 'Home',
+    name: 'home',
     redirect: 'chat', // 重定向
     component: () =>
-                import('../pages/Home'), // 懒加载
+      import('../pages/home'), // 懒加载
     children: [{
       path: '/chat',
       name: 'chat',
       component: () =>
-                    import('../pages/chat')
+        import('../pages/chat')
     }]
   },
   {
