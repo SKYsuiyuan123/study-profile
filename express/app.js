@@ -4,7 +4,7 @@ const express = require('express');
 const routerControllers = require('./controller');
 
 
-// 实例化
+// 实例化 app
 const app = express();
 
 // 链接数据库
