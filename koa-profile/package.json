@@ -1,0 +1,25 @@
+{
+    "name": "koa-profile",
+    "version": "1.0.0",
+    "description": "用 koa 写的后台",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node app.js",
+        "server": "nodemon app.js"
+    },
+    "keywords": [],
+    "author": "SKY随缘123",
+    "license": "ISC",
+    "dependencies": {
+        "gravatar": "^1.6.0",
+        "jsonwebtoken": "^8.4.0",
+        "koa": "^2.6.2",
+        "koa-bodyparser": "^4.2.1",
+        "koa-router": "^7.4.0",
+        "mongoose": "^5.3.12",
+        "passport": "^0.4.0",
+        "passport-jwt": "^4.0.0",
+        "validator": "^10.9.0"
+    }
+}
